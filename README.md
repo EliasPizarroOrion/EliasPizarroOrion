@@ -1,4 +1,4 @@
-Software Engineer | Full-Stack Dev | Web applications programmer - TypeScript - React -NestJS - MongoDB - AI
+Ingeniero Civil Informatico | Full-Stack Dev | Web applications programmer - TypeScript - React -NestJS - MongoDB - AI
 
 # Technologies ⚙️
 
@@ -14,7 +14,37 @@ Software Engineer | Full-Stack Dev | Web applications programmer - TypeScript - 
 
 ## Orion
 
+Desarrollo FullStack utilizando NestJs, React y MongoDB.
 
+### Responsabilidades principales:
+
+- Desarrollo y Mantenimiento FullStack: Diseño y construcción de aplicaciones web escalables utilizando React y NestJS para la lógica de servidor.
+
+- Arquitectura de Sistemas: Diseño, planificación e implementación de arquitecturas orientadas a microservicios con NestJS
+
+- Integración y APIs: Creación, consumo y mantenimiento de APIs RESTful, los microservicios internos y plataformas de terceros.
+
+- Planificación Técnica: Análisis de requerimientos de negocio para traducirlos en especificaciones técnicas, estimando tiempos y dividiendo proyectos grandes en tareas de desarrollo ejecutables.
+
+- Calidad de Código: Implementación de buenas prácticas de ingeniería, incluyendo revisiones de código (code reviews), escritura de pruebas unitarias y uso de principios SOLID.
+
+### Logros:
+
+- Implementación base de permisos de usuario según diferentes roles del negocio.
+
+- Alineamiento de fechas de una suscripción en base a la lógica de Renovación de Microsoft con calculo de precios asociado.
+
+- Modificación al flujo de ordenes para añadir nueva lógica de facturación
+
+- Desarrollo base para un nuevo flujo de facturación para hitos pendientes
+
+- Migraciones para actualizar antiguos registros con nuevos campos según nuevos requerimientos.
+
+- Desarrollo de lógica de aprovisionamiento automático para adicionar licencias de Microsoft
+
+- Categorización, visualización y envío de mensajes de error de sincronización por correos y en plataforma web.
+
+- Sincronización de recursos (organización, razones sociales, etc) con Odoo.
 
 [![Pullpo - DevCard](https://devcard.pullpo.io/api?user_id=d25326kjmkns73fhca60&team_id=cq1bsrinh2cc73e5dr10&custom_title=EliasPizarroOrion%20%40%20Orion&custom_subtitle=Developer&show_icons=true&disable_animations=false&title_color=0040ff&text_color=&icon_color=&ring_color=&bg_color=d0edfb&image_url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F110100065%3Fv%3D4)](https://pullpo.io/products/devcard)
 
