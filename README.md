@@ -19,7 +19,7 @@ Software Engineer | Full-Stack Dev | Web applications programmer - TypeScript - 
 [![Pullpo - DevCard](https://devcard.pullpo.io/api?user_id=d25326kjmkns73fhca60&team_id=cq1bsrinh2cc73e5dr10&custom_title=EliasPizarroOrion%20%40%20Orion&custom_subtitle=Developer&show_icons=true&disable_animations=false&title_color=0040ff&text_color=&icon_color=&ring_color=&bg_color=d0edfb&image_url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F110100065%3Fv%3D4)](https://pullpo.io/products/devcard)
 
 <div align="left">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=EliasPizarroOrion&theme=microsoft-dark&hide_border=true" width="500" />
+  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=EliasPizarroOrion&theme=microsoft-dark" alt="GitHub Streak" /></a>
 </div>
 
 
