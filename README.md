@@ -45,6 +45,10 @@ Desarrollo FullStack utilizando NestJs, React y MongoDB.
 - Categorización, visualización y envío de mensajes de error de sincronización por correos y en plataforma web.
 
 - Sincronización de recursos (organización, razones sociales, etc) con Odoo.
+  
+- Crear sistema de Feature Flags para manejo de visualización general en producción
+
+- Migraciones e importaciones a bd en base a excel
 
 [![Pullpo - DevCard](https://devcard.pullpo.io/api?user_id=d25326kjmkns73fhca60&team_id=cq1bsrinh2cc73e5dr10&custom_title=EliasPizarroOrion%20%40%20Orion&custom_subtitle=Developer&show_icons=true&disable_animations=false&title_color=0040ff&text_color=&icon_color=&ring_color=&bg_color=d0edfb&image_url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F110100065%3Fv%3D4)](https://pullpo.io/products/devcard)
 
